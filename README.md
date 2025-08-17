@@ -1,6 +1,5 @@
 Dive into this 3D Zombie Shooter built in Rust — coded with ChatGPT-5! 🦀🧟‍♂️  In this project we use the macroquad game engine to spawn waves of zombies, shoot bullets, and track score, health, and waves in a fun arena-style survival game — all running locally on your own machine, with no server or cloud required.
 
-💻 GitHub Repository: https://github.com/yourusername/rust-zombie-shooter
 
 🔥 What’s inside:
 
